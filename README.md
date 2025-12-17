@@ -2,6 +2,8 @@ Usage Tutorial for MSA Card Image Replacement and Interface Translation Script
 
 By：黑客是我
 
+Please see the image and text version at [Readme(Illustrated version).docx].
+
 这篇教学由【MSA卡图替换及界面翻译脚本使用教学.docx】翻译而来，也许有翻译不当之处请谅解，如果有哪儿一部分讲解不明白，请查阅中文原版文档。
 
 This tutorial is translated from [MSA 卡图替换及界面翻译脚本使用教学.docx]. Please forgive any inappropriate translations. If there are any parts that are not clearly explained, refer to the original Chinese document.
